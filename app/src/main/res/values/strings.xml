@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Life</string>
+
+
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+
+    <string name="err_msg_email">Enter Valid Email</string>
+    <string name="err_msg_password">Enter the password (At Least 6 Character)</string>
+    <string name="err_msg_repassword">Password does not match</string>
+    <string name="title_activity_main2">Life</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

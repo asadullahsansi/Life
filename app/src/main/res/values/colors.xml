@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">#C2185B</color>
+    <color name="colorAccent">#607D8B</color>
+
+
+    <color name="primary_light">#F8BBD0</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+
+
+    // icon color
+    <color name="white">#FFFFFF</color>
+    //divider color
+    <color name="lightGray">#BDBDBD</color>
+
+
+    <color name="categoryColorPrimary">#2196f3</color>
+    <color name="categoryColorPrimaryDark">#1976d2</color>
+
+
+    <color name="itemColorPrimary">#009688</color>
+    <color name="itemColorPrimaryDark">#00796b</color>
+
+
+    <color name="subCategoryColorPrimary">#ff9800</color>
+    <color name="subCategoryColorPrimaryDark">#f57c00</color>
+
+
+
+</resources>

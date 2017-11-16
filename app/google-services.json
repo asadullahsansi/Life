@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "401774254697",
+    "firebase_url": "https://life-dd561.firebaseio.com",
+    "project_id": "life-dd561",
+    "storage_bucket": "life-dd561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401774254697:android:cc9a93d6eb50c44f",
+        "android_client_info": {
+          "package_name": "com.example.asadullahsansi.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401774254697-jlgefv8k8m4b54un1ev82894cb7h2gnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asadullahsansi.life",
+            "certificate_hash": "e90536bdb3085bd5272a83fe8649734a72c5b269"
+          }
+        },
+        {
+          "client_id": "401774254697-j172roe2ugjtpli599srdqgbtkcgo938.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRtfEsUKhUe0hbGaD07utXF4GPRq7jNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401774254697-j172roe2ugjtpli599srdqgbtkcgo938.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
